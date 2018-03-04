@@ -173,5 +173,5 @@ def getnewmessage():
     chat='''WELCOME TO INTERNATIONAL CHAT'''
     new_message="welcome back";
     return redirect("/chat",code=302)
-if __name__=+"__main__":
+if __name__=="__main__":
     app.run(debug=True, use_reloader=True)
