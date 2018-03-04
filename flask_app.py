@@ -173,4 +173,4 @@ def getnewmessage():
     chat='''WELCOME TO INTERNATIONAL CHAT'''
     new_message="welcome back";
     return redirect("/chat",code=302)
-app.run()
+app.run(port=80,host="0.0.0.0")
