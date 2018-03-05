@@ -123,6 +123,7 @@ display: inline;
 <link rel="icon" href="/static/favicon.ico" type="image/x-icon">
 <link rel="apple-touch-startup-image" href="https://tr2.cbsistatic.com/hub/i/r/2015/03/25/b06b7a00-711d-4803-a242-58279f992dc4/resize/770x/381743adbbb46266227661b832c6df8e/win10.png">
 <meta name="apple-mobile-web-app-capable" content="yes">
+<link rel="apple-touch-icon" href="https://neilpatel.com/wp-content/uploads/2017/04/chat.jpg">
 
 
 
