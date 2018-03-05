@@ -175,4 +175,4 @@ def getnewmessage():
     return redirect("/chat",code=302)
 import os
 print(os.environ['PORT'])
-app.run(host='0.0.0.0',port=os.environ['PORT'])
+app.run(host='0.0.0.0',port=int(os.environ['PORT']))
